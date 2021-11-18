@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adjvillegas/BackEndHeroku_JV/issues"
   },
-  "homepage": "https://github.com/adjvillegas/BackEndHeroku_JV#readme"
+  "homepage": "https://github.com/adjvillegas/BackEndHeroku_JV#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
